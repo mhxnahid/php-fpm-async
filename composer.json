@@ -1,0 +1,7 @@
+{
+    "require": {
+        "hollodotme/fast-cgi-client": "3.1.*",
+        "guzzlehttp/guzzle": "^6.5",
+        "katzgrau/klogger": "dev-master"
+    }
+}
